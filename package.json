@@ -2,7 +2,7 @@
   "name": "PiggyInsight",
   "description": "An open-source frontend for the PiggyInsight API. The PiggyInsight API provides you with a convenient, powerful and simple way to query and broadcast data on the PiggyCcoin network and build your own services with it.",
   "version": "0.2.7",
-  "repository": "git://github.com/TeamPiggyCoin/PiggyInsight.git",
+  "repository": "git://github.com/teampiggycoin/piggyinsight.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -30,9 +30,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/TeamPiggyCoin/PiggyInsight/issues"
+    "url": "https://github.com/teampiggycoin/piggyinsight/issues"
   },
-  "homepage": "https://github.com/TeamPiggyCoin/PiggyInsight",
+  "homepage": "https://github.com/teampiggycoin/piggyinsight",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -52,7 +52,7 @@
     "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/piggyinsight-api"
   },
   "dependencies": {
-    "piggyinsight-api": "git://github.com/TeamPiggyCoin/PiggyInsight-API.git"
+    "piggyinsight-api": "git://github.com/teampiggycoin/piggyinsight-api.git"
   },
   "devDependencies": {
     "bower": "~1.2.8",
