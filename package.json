@@ -1,5 +1,5 @@
 {
-  "name": "PiggyInsight",
+  "name": "piggyinsight",
   "description": "An open-source frontend for the PiggyInsight API. The PiggyInsight API provides you with a convenient, powerful and simple way to query and broadcast data on the PiggyCcoin network and build your own services with it.",
   "version": "0.2.7",
   "repository": "git://github.com/teampiggycoin/piggyinsight.git",
